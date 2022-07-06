@@ -1,11 +1,10 @@
 # GRAVA-TELA-PYTHON
-grava a tela com o python
 
-
+# pacotes nessessários para rodar no Linux
 
 `python3 -m pip install pyautogui`
 
-## On Linux, additionally you need to install the scrot application, as well as Tkinter:
+## No Linux, além disso, você precisa instalar o aplicativo scrot, bem como o Tkinter:
 
 `sudo apt-get install scrot`
 
