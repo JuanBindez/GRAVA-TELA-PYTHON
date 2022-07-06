@@ -1,6 +1,6 @@
 # GRAVA-TELA-PYTHON
 
-# pacotes nessessários para rodar no Linux
+# pacotes necessários para rodar no Linux
 
 `python3 -m pip install pyautogui`
 
